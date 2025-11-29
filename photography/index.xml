@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photographies on 清简札记</title>
+    <link>https://example.org/photography/</link>
+    <description>Recent content in Photographies on 清简札记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 20 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>冬景随拍</title>
+      <link>https://example.org/photography/winter-album/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/winter-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>秋日随拍</title>
+      <link>https://example.org/photography/autumn-album/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/autumn-album/</guid>
+      <description>&lt;p&gt;记录：清晨的公园，木纹与雾气在光线里轻轻起伏。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>春日拾影</title>
+      <link>https://example.org/photography/spring-album/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/spring-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>夏日光影</title>
+      <link>https://example.org/photography/summer-album/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/summer-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>城影浮光</title>
+      <link>https://example.org/photography/city-album/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/city-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>林间拾步</title>
+      <link>https://example.org/photography/forest-album/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/forest-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>海风与浪</title>
+      <link>https://example.org/photography/sea-album/</link>
+      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/sea-album/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>山河远阔</title>
+      <link>https://example.org/photography/mountain-album/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/photography/mountain-album/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

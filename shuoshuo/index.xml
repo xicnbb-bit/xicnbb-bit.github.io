@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuoshuoes on 清简札记</title>
+    <link>https://example.org/shuoshuo/</link>
+    <description>Recent content in Shuoshuoes on 清简札记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 28 Nov 2025 08:12:00 +0800</lastBuildDate>
+    <atom:link href="https://example.org/shuoshuo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>晨读</title>
+      <link>https://example.org/shuoshuo/first-note/</link>
+      <pubDate>Fri, 28 Nov 2025 08:12:00 +0800</pubDate>
+      <guid>https://example.org/shuoshuo/first-note/</guid>
+      <description>&lt;p&gt;一页纸，一杯茶，缓慢开始的一天。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

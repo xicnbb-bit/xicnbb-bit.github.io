@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主题 on 清简札记</title>
+    <link>https://example.org/tags/%E4%B8%BB%E9%A2%98/</link>
+    <description>Recent content in 主题 on 清简札记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/%E4%B8%BB%E9%A2%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>雅谷主题初体验</title>
+      <link>https://example.org/posts/hello-yagu/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/hello-yagu/</guid>
+      <description>&lt;h2 id=&#34;小节一写作的仪式感&#34;&gt;小节一：写作的仪式感&lt;/h2&gt;&#xA;&lt;p&gt;首段首行缩进与充足留白，营造更沉静的阅读体验。&lt;/p&gt;&#xA;&lt;h3 id=&#34;细节&#34;&gt;细节&lt;/h3&gt;&#xA;&lt;p&gt;低饱和度配色与细线条边框，让注意力更集中在文字上。&lt;/p&gt;&#xA;&lt;h2 id=&#34;小节二克制的动态&#34;&gt;小节二：克制的动态&lt;/h2&gt;&#xA;&lt;p&gt;仅保留必要的淡入与 hover 反馈，避免炫技与卡顿。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
